@@ -1,8 +1,8 @@
 import openpyxl
 import json
 
-excel_file = 'C:\github\python/zium_database.xlsx'
-json_file = 'C:\github\python/zium_database.json'
+excel_file = 'C:\github\zium_database/zium_database.xlsx'
+json_file = 'C:\github\zium_database/zium_database.json'
 
 wb = openpyxl.load_workbook(excel_file, read_only=True, data_only=True)
 
