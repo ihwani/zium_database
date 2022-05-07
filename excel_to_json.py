@@ -28,7 +28,6 @@ for row_num in range(2, sheet.max_row + 1):
             tag = sheet.cell(row=row_num, column=col_num).value
     tag = tag.split(',')
     tmp_dict[key_list[10]] = tag
-    print(tmp_dict)
     data_dict.append(tmp_dict)
 
 wb.close()
