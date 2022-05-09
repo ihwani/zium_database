@@ -5,17 +5,24 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00001",
         "project_name": "갤러리84(75)",
         "project_link": "http://misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=36",
         "image_link": "http://misoroarch.com/HyAdmin/naverEditor/upload/1642754249.png",
         "location": "인천시 영종도 운북동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다가구주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다가구주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -24,14 +31,21 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00002",
         "project_name": "대치동 근린생활시설",
         "project_link": "http://misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=20",
         "image_link": "http://misoroarch.com/HyAdmin/naverEditor/upload/1619583051.jpg",
         "location": "서울시 강남구 대치동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가"
+            "상가"
         ]
     },
     {
@@ -40,17 +54,24 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00003",
         "project_name": "성남시 고등동 근생 및 다세대주택",
         "project_link": "http://misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=23",
         "image_link": "http://misoroarch.com/HyAdmin/naverEditor/upload/1620023226.jpg",
         "location": "경기도 성남시 수정구 고등동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다가구주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다가구주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -59,11 +80,18 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00004",
         "project_name": "구미 직장 어린이집",
         "project_link": "http://misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=31",
         "image_link": "http://misoroarch.com/HyAdmin/naverEditor/upload/1624342016.jpg",
         "location": "경상북도 구미시 구포동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "노유자시설"
         ]
@@ -74,15 +102,22 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00005",
         "project_name": "판교 운중동 상가주택",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=22",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/22$1$2104281221021.jpg",
         "location": "성남시 분당구 운중동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "상가주택",
-            " 주택",
-            " 상가"
+            "주택",
+            "상가"
         ]
     },
     {
@@ -91,14 +126,21 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00006",
         "project_name": "양재동 다세대주택",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=16",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/16$1$2105041108411.jpg",
         "location": "서울특별시 서초구 양재동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "다세대주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -107,14 +149,21 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00007",
         "project_name": "전주 예치과",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=21",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/21$1$2104281222411.jpg",
         "location": "전라북도 전주시",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가"
+            "상가"
         ]
     },
     {
@@ -123,18 +172,25 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00008",
         "project_name": "어스 20",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=9",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/9$1$2104061202401.jpg",
         "location": "경기도 안산시 단원구 대부남동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택",
-            " 펜션"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택",
+            "펜션"
         ]
     },
     {
@@ -143,16 +199,23 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00009",
         "project_name": "지웰 에스테이트",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=15",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/15$1$2106211459371.jpg",
         "location": "경기도 광명시 일직동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가",
-            " 업무시설",
-            " 오피스텔"
+            "상가",
+            "업무시설",
+            "오피스텔"
         ]
     },
     {
@@ -161,16 +224,23 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00010",
         "project_name": "광교 데시앙루브 오피스텔",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=17",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/17$1$2104061209521.jpg",
         "location": "경기도 수원시 영통구 ",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가",
-            " 업무시설",
-            " 오피스텔"
+            "상가",
+            "업무시설",
+            "오피스텔"
         ]
     },
     {
@@ -179,16 +249,23 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00011",
         "project_name": "안양시 관양동 오피스텔",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=33",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/33$1$2106241142301.jpg",
         "location": "경기도 안양시 동안구 관양동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가",
-            " 업무시설",
-            " 오피스텔"
+            "상가",
+            "업무시설",
+            "오피스텔"
         ]
     },
     {
@@ -197,14 +274,21 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00012",
         "project_name": "부천 새빛교회",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=29",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/29$1$2106221439491.jpg",
         "location": "경기도 부천시 도당동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "교회",
-            " 종교시설"
+            "종교시설"
         ]
     },
     {
@@ -213,15 +297,22 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00013",
         "project_name": "e편한세상 동해",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=12",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/12$1$2106221340131.jpg",
         "location": "강원도 동해시 단봉동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "공동주택",
-            " 아파트",
-            " 주택"
+            "아파트",
+            "주택"
         ]
     },
     {
@@ -230,15 +321,22 @@
         "design_office": "미소로건축사사무소",
         "homepage_link": "http://misoroarch.com/",
         "ic_link": "http://misoroarch.com/images/main/mt_title.png",
+        "phone_number": "02)577-4543",
+        "email": "misoroarch@hanmail.net",
+        "office_address": "서울시 강남구 개포로 206, 5층",
         "project_id": "pj_00014",
         "project_name": "e편한세상 안동",
         "project_link": "http://www.misoroarch.com/HyAdmin/view.php?&bbs_id=bo02&page=&doc_num=13",
         "image_link": "http://www.misoroarch.com/HyAdmin/data/bo02/13$1$2106211145471.jpg",
         "location": "경상북도 안동시 용상동",
+        "office_boss": [
+            "박완수",
+            "박성남"
+        ],
         "tag": [
             "공동주택",
-            " 아파트",
-            " 주택"
+            "아파트",
+            "주택"
         ]
     },
     {
@@ -247,14 +345,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00001",
         "project_name": "시선재(示線齋)",
         "project_link": "http://sosu2357.com/projects/seasunjae",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1487048537891-P5OM894V6SS0G4VO8UIY/%EC%8B%9C%EC%84%A0%EC%9E%AC+%EC%A0%95%EB%A9%B4%EC%82%AC%EC%A7%84%28%EC%88%98%EC%A0%95%ED%9B%84%29.jpg",
         "location": "제주도 서귀포시 대포동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -263,14 +368,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00002",
         "project_name": "담류헌(談流軒)",
         "project_link": "http://sosu2357.com/projects/8456",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1467600129226-HT31Q3XJIV68Q7RSXKS7/KakaoTalk_20160630_201846235.jpg",
         "location": "경기도 파주시 산남동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -279,15 +391,22 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00003",
         "project_name": "동심원(同心院)",
         "project_link": "http://sosu2357.com/projects/000",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1503938393715-BVIIXNSSO78REBDM8SGO/PRIZE-2.jpg",
         "location": "서울시 양천구 목동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 주택",
-            " 상가"
+            "주택",
+            "상가"
         ]
     },
     {
@@ -296,11 +415,18 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00004",
         "project_name": "지품 팡팡 놀이터",
         "project_link": "http://sosu2357.com/projects/pangpang",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1500613997236-CBR414WDKLEI849SC2IU/DSC_9094-편집.jpg",
         "location": "경상북도 영덕군 지품면",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "지역복지시설"
         ]
@@ -311,14 +437,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00005",
         "project_name": "정중헌(正中軒)",
         "project_link": "http://sosu2357.com/projects/sejong",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1525185810809-W2O16CWI0UWG3306PK9G/2.jpg",
         "location": "\t세종특별시 도담동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -327,14 +460,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00006",
         "project_name": "신선길(Shinsun-gil)",
         "project_link": "http://sosu2357.com/projects/250",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1530938387870-UN9DFCKF5A24O1RB2Y8T/4상부1.jpg",
         "location": "전라북도 부안군 위도면 대리",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "전망대",
-            " 공작물"
+            "공작물"
         ]
     },
     {
@@ -343,14 +483,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00007",
         "project_name": "닮담집(DamDamZip)",
         "project_link": "http://sosu2357.com/projects/ssang",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1537181229797-2ZC550DRPXQ4BM1PPNE9/thumnai-2.jpg",
         "location": "서울시 도봉구 쌍문동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "다가구주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -359,17 +506,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00008",
         "project_name": "일삶빌딩(3/1 bldg.)",
         "project_link": "http://sosu2357.com/projects/315-37",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1542679029822-LBGXA8V0KJ3JSWXPVISQ/thumnail.jpg",
         "location": "서울시 성동구 성수동2가",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다가구주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다가구주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -378,14 +532,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00009",
         "project_name": "송학리의 생각(生閣)",
         "project_link": "http://sosu2357.com/projects//-",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1573812648846-VYJEJF1JHLMIKXQN84YD/thum.jpg",
         "location": "경기도 양평군 강상면 송학리",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -394,17 +555,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00010",
         "project_name": "풍경이 흐르는 집",
         "project_link": "http://sosu2357.com/projects//1120-73",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1545988133800-J5VV8COBVGEGC3LTYW2W/thumbnail-2.jpg?format=500w",
         "location": "대구광역시 동구 방촌동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 다가구주택",
-            " 주택",
-            " 상가",
-            " 근린생활시설"
+            "다가구주택",
+            "주택",
+            "상가",
+            "근린생활시설"
         ]
     },
     {
@@ -413,17 +581,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00011",
         "project_name": "THE HOME 3.0",
         "project_link": "http://sosu2357.com/projects//the-home-30",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1595828009825-TMYPNXLM42E2K5P7VNFD/thumnail.jpg?format=500w",
         "location": "서울특별시 양천구 등촌동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 다세대주택",
-            " 주택",
-            " 상가",
-            " 근린생활시설"
+            "다세대주택",
+            "주택",
+            "상가",
+            "근린생활시설"
         ]
     },
     {
@@ -432,17 +607,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00012",
         "project_name": "brick 19.75",
         "project_link": "http://sosu2357.com/projects//brick-1975-1",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1595828862548-B4WY35OQJL7LHLK0PTNF/thumnail_detail.jpg?format=500w",
         "location": "서울특별시 양천구 목동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 다세대주택",
-            " 주택",
-            " 상가",
-            " 근린생활시설"
+            "다세대주택",
+            "주택",
+            "상가",
+            "근린생활시설"
         ]
     },
     {
@@ -451,17 +633,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00013",
         "project_name": "송25 [松怡俉]",
         "project_link": "http://sosu2357.com/projects//25-",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1595827607872-X3FD5S8BOE156LLALMSP/thumnail.jpg?format=500w",
         "location": "서울특별시 송파구 송파동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 다세대주택",
-            " 주택",
-            " 상가",
-            " 근린생활시설"
+            "다세대주택",
+            "주택",
+            "상가",
+            "근린생활시설"
         ]
     },
     {
@@ -470,17 +659,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00014",
         "project_name": "이이헌 [怡里軒]",
         "project_link": "http://sosu2357.com/projects//--1",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1599628763678-ATRE905J3P45VVKIC6XC/thumnail_%EC%9D%B4%EC%9D%B4%ED%97%8C.jpg?format=500w",
         "location": "서울특별시 마포구 망원동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 다가구주택",
-            " 주택",
-            " 상가",
-            " 근린생활시설"
+            "다가구주택",
+            "주택",
+            "상가",
+            "근린생활시설"
         ]
     },
     {
@@ -489,14 +685,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00015",
         "project_name": "N House",
         "project_link": "http://sosu2357.com/projects//-1",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1608621265857-X303A73TGAIVQV4Z8VE7/thumnail_N%EC%A3%BC%ED%83%9D.jpg?format=500w",
         "location": "서울특별시 서초구 내곡동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -505,17 +708,24 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00016",
         "project_name": "g.ROUND",
         "project_link": "http://sosu2357.com/projects//ground",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1620981339441-OJ6AFWKEHZFM3NOVTNMO/thumnail.jpg?format=500w",
         "location": "서울특별시 송파구 가락동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "상가주택",
-            " 다세대주택",
-            " 주택",
-            " 상가",
-            " 근린생활시설"
+            "다세대주택",
+            "주택",
+            "상가",
+            "근린생활시설"
         ]
     },
     {
@@ -524,11 +734,18 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00017",
         "project_name": "P HQ.",
         "project_link": "http://sosu2357.com/projects//-p",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1631266497715-5U8VTK11TDK2Q09VVREY/thumnail_p%EC%82%AC%EC%98%A5_re.jpg?format=500w",
         "location": "서울특별시 강남구 논현동",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "업무시설"
         ]
@@ -539,14 +756,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00018",
         "project_name": "흔연재 [ 欣然齎 ]",
         "project_link": "http://sosu2357.com/projects//-2",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1633573039788-GGK933QA86HK0KGSZ1SS/thumnail_%EC%95%84%EC%8B%A0%EB%A6%AC.jpg?format=500w",
         "location": "경기도 양평군 옥천면 아신리",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -555,14 +779,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00019",
         "project_name": "PinOak",
         "project_link": "http://sosu2357.com/projects//-3",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1644228652734-UDUWP46ZVANZ62ZZP4CB/thumnail_pinoak.jpg?format=500w",
         "location": "경기도 용인시 처인구 백암면 근창리",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가"
+            "상가"
         ]
     },
     {
@@ -571,14 +802,21 @@
         "design_office": "소수 건축사사무소",
         "homepage_link": "http://sosu2357.com/",
         "ic_link": "http://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1468466155608-AQICUKO1PT078R8MGRBO/sosu+ci-01+copy.png",
+        "phone_number": "02)461-2357",
+        "email": "235711sosu@gmail.com",
+        "office_address": "서울특별시 성동구 서울숲6길 13, B1F",
         "project_id": "pj_00020",
         "project_name": "Glow bldg.",
         "project_link": "http://sosu2357.com/projects//glow",
         "image_link": "https://images.squarespace-cdn.com/content/v1/5756c135356fb02fbe7ced1d/1644232796902-N7EXYSGRWA49CCLPDLEK/thumnail_glow-2.jpg?format=500w",
         "location": "서울특별시 성동구 성수동1가",
+        "office_boss": [
+            "김미희",
+            "고석홍"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가"
+            "상가"
         ]
     },
     {
@@ -587,14 +825,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00001",
         "project_name": "김포 근린생활시설",
         "project_link": "https://todot.kr/29?category=821064",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/dSnR2J/btqzrXWI0SD/v0HNR4c6nVggsyWIgFggo1/img.jpg",
         "location": "경기도 김포시 고촌읍 전호리",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "근린생활시설",
-            " 상가"
+            "상가"
         ]
     },
     {
@@ -603,11 +848,18 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00002",
         "project_name": "LS전선 동해사업장 본관동 증축",
         "project_link": "https://todot.kr/87?category=821064",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/kNXVk/btrqQfriMDY/nliDnjkhioDRiNzRXmSXq0/img.jpg",
         "location": "강원도 동해시 송정동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "공장"
         ]
@@ -618,14 +870,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00003",
         "project_name": "화성 단독주택 '봉구네",
         "project_link": "https://todot.kr/50?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/qLD2T/btqCM9AJ15n/xtqKY9KcHEsm5zy7Xn3GHk/img.png",
         "location": "경기도 화성시 정남면 수면리",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -634,17 +893,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00004",
         "project_name": "정자동 다가구주택 ‘솟은집’",
         "project_link": "https://todot.kr/51?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bp2wQt/btqCM9Hnj4d/i3NKohoOvGld9uj8CixuUK/img.jpg",
         "location": "경기도 수원시 장안구 정자동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -653,17 +919,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00005",
         "project_name": "용인 서천 상가주택",
         "project_link": "https://todot.kr/36?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/zINPa/btqzH1xsDq4/U8IL6Ybpuy7xY6mV1dLMtK/img.jpg",
         "location": "경기도 용인시 기흥구 농서동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다가구주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다가구주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -672,17 +945,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00006",
         "project_name": "용인 서천 삼남매집",
         "project_link": "https://todot.kr/37?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/l1qpu/btqzKdD8U7u/92hpRS47zebbuKGLFweOeK/img.jpg",
         "location": "경기도 용인시 기흥구 농서동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다가구주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다가구주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -691,14 +971,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00007",
         "project_name": "파주 단독주택",
         "project_link": "https://todot.kr/11?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/trMtk/btqzb9W8Dzq/cWHqEqJQtHhsOdIi0oHpK0/img.jpg",
         "location": "경기도 파주시 산남동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -707,17 +994,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00008",
         "project_name": "원주 상가주택 '자경채(自景彩)'",
         "project_link": "https://todot.kr/20?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/ceCwNk/btqzjhaM2N6/lI0lgyNVKIE6EJuovhKlf0/img.jpg",
         "location": "강원도 원주혁신도시",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다가구주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다가구주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -726,17 +1020,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00009",
         "project_name": "군자동 다세대주택 '밭은집'",
         "project_link": "https://todot.kr/12?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/OjkHB/btqza9wZwcf/kLVYVcuRbAhyAzNXaECZ30/img.jpg",
         "location": "서울 광진구 군자동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 다세대주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "다세대주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -745,17 +1046,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00010",
         "project_name": "영종도 상가주택 '중정삼대'",
         "project_link": "https://todot.kr/21?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/mV3cF/btqzktgS0eP/5pZK6wHhVzYxZtw54s1fk0/img.jpg",
         "location": "인천광역시 중구 운서동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -764,18 +1072,25 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00011",
         "project_name": "영종도 쉐어하우스 '고독한 집'",
         "project_link": "https://todot.kr/19?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bJxmdz/btqzkrpKeCo/p4QNu18ittUhQdU1MMQFv0/img.jpg",
         "location": "인천광역시 중구 운서동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택",
-            " 카페"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택",
+            "카페"
         ]
     },
     {
@@ -784,18 +1099,25 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00012",
         "project_name": "영종도 상가주택 '바라봄'",
         "project_link": "https://todot.kr/22?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/DevsY/btqzjrRZOeE/ikwv0PimmKniYaH7qJdL4K/img.jpg",
         "location": "인천광역시 중구 운서동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택",
-            " 카페"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택",
+            "카페"
         ]
     },
     {
@@ -804,17 +1126,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00013",
         "project_name": "제주 상가주택 '숨집'",
         "project_link": "https://todot.kr/31?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bBuhmJ/btqzusIzuPv/xYq4s5QRCqT4cHMiSpmoRK/img.jpg",
         "location": "제주특별자치도 제주시 노형동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -823,14 +1152,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00014",
         "project_name": "민락동 다가구주택 '딜쿠샤(닿은집)'",
         "project_link": "https://todot.kr/33?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bEYVBm/btqzyi7D7zC/tO5geNniFVjTqIcrlygqCk/img.jpg",
         "location": "경기도 의정부시 민락동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "다가구주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -839,18 +1175,25 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00015",
         "project_name": "방화동 다세대주택 '하얀집'",
         "project_link": "https://todot.kr/34?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/IqioU/btqzwuVJdYc/8nmHI8IK3CBESQ1K0jSKX1/img.jpg",
         "location": "서울특별시 강서구 방화동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다세대주택",
-            " 주택",
-            " 카페"
+            "근린생활시설",
+            "상가",
+            "다세대주택",
+            "주택",
+            "카페"
         ]
     },
     {
@@ -859,14 +1202,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00016",
         "project_name": "양수리 두 건축가의 집 ‘모조’",
         "project_link": "https://todot.kr/35?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/baodtm/btqzKZty6Bo/BUvGGfT7Nh2UNy9zYV7MGk/img.jpg",
         "location": "경기도 양평군 양서면 양수리",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "다가구주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -875,15 +1225,22 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00017",
         "project_name": "조안리 전원주택 ‘또들네’",
         "project_link": "https://todot.kr/40?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/kJQ0L/btqz5z7Y7cD/9nK6ov7c4n0JQZXo7j0rdk/img.jpg",
         "location": "경기도 남양주시 조안면 조안리",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "단독주택",
-            " 주택",
-            " 전원주택"
+            "주택",
+            "전원주택"
         ]
     },
     {
@@ -892,17 +1249,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00018",
         "project_name": "중화동 다가구주택 '골목집'",
         "project_link": "https://todot.kr/41?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bFKJcz/btqz5aH6nUb/k2BHmIain5sygdpQB5L6O1/img.jpg",
         "location": "서울특별시 중랑구 중화동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -911,17 +1275,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00019",
         "project_name": "영종도 상가주택(쉐어하우스) '달리'",
         "project_link": "https://todot.kr/43?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bpTH5l/btqEeqmLJNm/nTYkv4SqeZucskSiiJZZXK/img.jpg",
         "location": "인천광역시 중구 중산동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -930,17 +1301,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00020",
         "project_name": "방이동 다세대주택 '라운딩'",
         "project_link": "https://todot.kr/45?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/ETw5y/btqCDj3pDH8/kvPoxBZ3nguPH9aTeWaKQ1/img.jpg",
         "location": "서울특별시 송파구 방이동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다세대주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다세대주택",
+            "주택"
         ]
     },
     {
@@ -949,18 +1327,25 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00021",
         "project_name": "평택 전원주택 '책과 노니는 집'",
         "project_link": "https://todot.kr/56?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/cTk5N1/btqEGUgMsNa/ott2JTlGLSgyudhXT7kO1k/img.jpg",
         "location": "경기도 평택시 현덕면 덕목리",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 단독주택",
-            " 주택",
-            " 서점"
+            "근린생활시설",
+            "상가",
+            "단독주택",
+            "주택",
+            "서점"
         ]
     },
     {
@@ -969,17 +1354,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00022",
         "project_name": "묵동 다가구주택 '스키니'",
         "project_link": "https://todot.kr/58?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/b1CQf6/btqFtJZ4R6j/CUpHk4SszWlHBhzK81DBvK/img.jpg",
         "location": "서울특별시 중랑구 묵동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다세대주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다세대주택",
+            "주택"
         ]
     },
     {
@@ -988,17 +1380,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00023",
         "project_name": "성내동 상가주택 '저모서리'",
         "project_link": "https://todot.kr/71?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/FqTIR/btqUL8I6efn/rZCRd1OfrWvhjncIO6zEfk/img.jpg",
         "location": "서울특별시 강동구 성내동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -1007,17 +1406,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00024",
         "project_name": "향동 상가주택 '커튼콜'",
         "project_link": "https://todot.kr/82?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/cuJidR/btq16Q9rfAC/2Mmere5Xms6BSJ5eckFWx1/img.jpg",
         "location": "경기도 고양시 덕양구 향동동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -1026,17 +1432,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00025",
         "project_name": "종로 다세대주택 ‘제이블럭’",
         "project_link": "https://todot.kr/85?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/owA2N/btreX3PJp9I/008c8Aw9nieHs4oepAy4bK/img.jpg",
         "location": "서울특별시 종로구 종로6가",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다세대주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다세대주택",
+            "주택"
         ]
     },
     {
@@ -1045,17 +1458,24 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00026",
         "project_name": "면목동 상가주택 'VARANDA'",
         "project_link": "https://todot.kr/95?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/bOUoJ6/btrrd7kYN12/KLOLJny9bqk6D7OPDlFXU0/img.jpg",
         "location": "서울특별시 중랑구 면목동",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 상가",
-            " 다가구주택",
-            " 주택"
+            "근린생활시설",
+            "상가",
+            "다가구주택",
+            "주택"
         ]
     },
     {
@@ -1064,14 +1484,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00027",
         "project_name": "주말주택 '진화산방'",
         "project_link": "https://todot.kr/96?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/cSsCHz/btruHxgqwcV/VKS7rbdHZhEg1B3Tgk3Pa0/img.jpg",
         "location": "울산광역시 울주군 두동면 은편리",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1080,14 +1507,21 @@
         "design_office": "투닷 건축사사무소",
         "homepage_link": "https://todot.kr/",
         "ic_link": "https://blogpfthumb-phinf.pstatic.net/MjAxOTEyMjVfMjA1/MDAxNTc3MjE4Nzc2NTIy.EkeacEGWYCB5ib35H9Nfckt-RwihhCo-qfEnGCfdxBYg.AsYOAQpr4BPrRwDMhO9cSokLM2FPjk3bA1kJs4G2ubAg.JPEG.ftw18/%25C5%25F5%25B4%25E5%2B%25BA%25B9%25BB%25E7.jpg?type=w161",
+        "phone_number": "02)6959-1076",
+        "email": "todot@todot.kr",
+        "office_address": "경기도 양평군 양서면 북한강로25-1",
         "project_id": "pj_00028",
         "project_name": "호평동 단독주택 '트인 집'",
         "project_link": "https://todot.kr/97?category=821063",
         "image_link": "https://i1.daumcdn.net/thumb/C230x180/?fname=https://blog.kakaocdn.net/dn/4X2Rw/btrwGiWnYuq/btXAmG5Ticzvr7SMYKmh2K/img.jpg",
         "location": "경기도 남양주시 늘을1로",
+        "office_boss": [
+            "모승민",
+            "조병규"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1096,14 +1530,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00001",
         "project_name": "세현담",
         "project_link": "http://inuarchi.com/?p=1498",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/DSC4768-1-300x150.jpg",
         "location": "전라남도 나주시 빛가림동",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1112,16 +1552,22 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00002",
         "project_name": "담양 베비에르",
         "project_link": "http://inuarchi.com/?p=1536",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/DSC6173-300x150.jpg",
         "location": "전라남도 담양군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가",
-            " 근린생활시설",
-            " 카페",
-            " 베이커리카페"
+            "근린생활시설",
+            "카페",
+            "베이커리카페"
         ]
     },
     {
@@ -1130,14 +1576,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00003",
         "project_name": "장성 민경담",
         "project_link": "http://inuarchi.com/?p=1593",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/1020363-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1146,14 +1598,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00004",
         "project_name": "장성 패시브하우스",
         "project_link": "http://inuarchi.com/?p=1764",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/KakaoTalk_20171114_121503383-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1162,14 +1620,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00005",
         "project_name": "전주 단독주택",
         "project_link": "http://inuarchi.com/?p=1840",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/KOOA0377-300x150.jpg",
         "location": "전라북도 전주시",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1178,14 +1642,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00006",
         "project_name": "장성 단독주택",
         "project_link": "http://inuarchi.com/?p=1868",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/01-%EC%99%B8%EB%B6%80-1-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1194,16 +1664,22 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00007",
         "project_name": "양림동 상가주택",
         "project_link": "http://inuarchi.com/?p=1938",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/DSC3724-300x150.jpg",
         "location": "광주광역시 남구 양림동",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -1212,14 +1688,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00008",
         "project_name": "빛가람동 단독주택",
         "project_link": "http://inuarchi.com/?p=1946",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/DSC7743-300x150.jpg",
         "location": "전라남도 나주시 빛가람동",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1228,14 +1710,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00009",
         "project_name": "장덕동 근린생활시설",
         "project_link": "http://inuarchi.com/?p=1955",
         "image_link": "http://inuarchi.com/wp-content/uploads/2020/10/DSC3510-300x150.jpg",
         "location": "광주광역시 광산구 장덕동",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가",
-            " 근린생활시설"
+            "근린생활시설"
         ]
     },
     {
@@ -1244,14 +1732,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00010",
         "project_name": "담양 하현재",
         "project_link": "http://inuarchi.com/?p=2070",
         "image_link": "http://inuarchi.com/wp-content/uploads/2021/06/KakaoTalk_20210601_113308412_16-300x150.jpg",
         "location": "전라남도 담양군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1260,14 +1754,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00011",
         "project_name": "장성 단독주택",
         "project_link": "http://inuarchi.com/?p=2091",
         "image_link": "http://inuarchi.com/wp-content/uploads/2021/08/KakaoTalk_20210806_132334058-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1276,16 +1776,22 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00012",
         "project_name": "소태동 상가주택",
         "project_link": "http://inuarchi.com/?p=2093",
         "image_link": "http://inuarchi.com/wp-content/uploads/2021/08/KakaoTalk_20210806_132334058_03-300x150.jpg",
         "location": "광주광역시 동구 소태동",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -1294,14 +1800,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00013",
         "project_name": "지산동 근생",
         "project_link": "http://inuarchi.com/?p=2111",
         "image_link": "http://inuarchi.com/wp-content/uploads/2021/12/IMG_20211015_162350_086-300x150.jpg",
         "location": "광주광역시 동구 지산동",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가",
-            " 근린생활시설"
+            "근린생활시설"
         ]
     },
     {
@@ -1310,14 +1822,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00014",
         "project_name": "장성주택",
         "project_link": "http://inuarchi.com/?p=2116",
         "image_link": "http://inuarchi.com/wp-content/uploads/2021/12/IMG_20211104_202013_032-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1326,14 +1844,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00015",
         "project_name": "화순 신덕리 단독주택",
         "project_link": "http://inuarchi.com/?p=2134",
         "image_link": "http://inuarchi.com/wp-content/uploads/2022/03/01-%EC%99%B8%EB%B6%80_01-300x150.jpg",
         "location": "전라남도 화순군 도곡면 신덕리",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     },
     {
@@ -1342,14 +1866,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00016",
         "project_name": "담양치과&갤러리",
         "project_link": "http://inuarchi.com/?p=2175",
         "image_link": "http://inuarchi.com/wp-content/uploads/2022/05/P9A1073-300x150.jpg",
         "location": "전라남도 담양군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가",
-            " 근린생활시설"
+            "근린생활시설"
         ]
     },
     {
@@ -1358,17 +1888,23 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00017",
         "project_name": "하현재 준공사진",
         "project_link": "http://inuarchi.com/?p=2194",
         "image_link": "http://inuarchi.com/wp-content/uploads/2022/05/DSC2813-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "상가주택",
-            " 근린생활시설",
-            " 단독주택",
-            " 주택",
-            " 상가"
+            "근린생활시설",
+            "단독주택",
+            "주택",
+            "상가"
         ]
     },
     {
@@ -1377,14 +1913,20 @@
         "design_office": "인우 건축사사무소",
         "homepage_link": "http://inuarchi.com/",
         "ic_link": "http://inuarchi.com/wp-content/uploads/2020/10/%EB%A1%9C%EA%B3%A0-e1603675402751.png",
+        "phone_number": "062)945-5442",
+        "email": "inu-archi@hanmail.net",
+        "office_address": "광주광역시 광산구 장신로 136, 4층",
         "project_id": "pj_00018",
         "project_name": "장성 봄빛담",
         "project_link": "http://inuarchi.com/?p=2226",
         "image_link": "http://inuarchi.com/wp-content/uploads/2022/05/P9A1310-300x150.jpg",
         "location": "전라남도 장성군",
+        "office_boss": [
+            "김대영"
+        ],
         "tag": [
             "단독주택",
-            " 주택"
+            "주택"
         ]
     }
 ]
