@@ -2336,5 +2336,1950 @@
             "단독주택",
             "주택"
         ]
+    },
+    {
+        "id": "r_00001_pj_00001",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00001",
+        "project_name": "망원동 모퉁이집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=90157049580&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20121119_195/richuehong2_1353290987273wmThA_JPEG/1%C2%F7_.jpg?type=a238_flexible",
+        "location": "서울특별시 마포구 망원동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "단독주택",
+            "고시원",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00002",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00002",
+        "project_name": "상도동 반달집 (가례원 사옥)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220239059360&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20150113_177/richuehong2_1421141986439HUEpc_JPEG/%B9%DD%B4%DE%C1%D6%C5%C3_%284%29.jpg?type=a238_flexible",
+        "location": "서울특별시 동작구 상도동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "근린생활시설",
+            "상가"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00003",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00003",
+        "project_name": "통영 도마집 (도서관을 품은 마당집)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220257184431&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20150130_161/richuehong2_14225845141334yHeP_JPEG/002_%2810%29.jpg?type=a238_flexible",
+        "location": "경상남도 통영시 죽림리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "샹가주택",
+            "다가구주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00004",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00004",
+        "project_name": "동교동 UFO (Urban Floating Object)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220435376783&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20150729_101/richuehong2_1438169018491RReNQ_PNG/%B5%BF%B1%B3%B5%BF%C1%D6%C5%C3_%285%29.png?type=a238_flexible",
+        "location": "서울특별시 마포구 동교동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "다세대주택",
+            "공동주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00005",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00005",
+        "project_name": "가락동 상가주택 (소소채)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220901704457&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzAxMDNfMTUy/MDAxNDgzNDI5MTMxMzk4.VtyNJeYFb_cwSSIeiutIRPKOEIUEV6CZVDxxn7W3kqUg.6JbKIPU9oeq_pu2NFZqa1GRoHBm2qM1q9MexA1wyedMg.JPEG.richuehong2/%B8%AE%BD%B4-%B0%A1%B6%F4%B5%BF_%B1%D9%BB%FD__%284%29.jpg?type=a238_flexible",
+        "location": "서울특별시 송파구 가락동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00006",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00006",
+        "project_name": "고양 화정동 삼각집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221002736634&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzA1MTBfNzAg/MDAxNDk0NDEzMjAyNDQ4.Q404W5wAZDf131h4SR7ebWV_yT0_Q7Q9ZoiyUO1zdrMg.rZAdK5E5FGUIEHg0kQDANjQDZcfsbla5g_ZFJ4QkdRAg.JPEG.richuehong2/%C8%AD%C1%A4%B5%BF_%C1%D6%C5%C3_%2811%29.jpg?type=a238_flexible",
+        "location": "경기도 고양시 덕양구 화정동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00007",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00007",
+        "project_name": "안동시 상가주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221147423212&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzExMjRfODYg/MDAxNTExNDkyMzI5NDU5.inkIOZqEcQk0ZAXe0MHAG3l8qrQ-2G7PDXUvLl8zFV0g.dlkroERWw4swwCIEhKCWbrIDPDUvVcshkpGN5Eh_r-0g.JPEG.richuehong2/_yeon.rk_2017_11_IMG_3718_ca_ba.jpg?type=a238_flexible",
+        "location": "경상북도 안동시 풍천면 갈전리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00008",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00008",
+        "project_name": "젠가 하우스",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221214346483&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODAyMjJfMTY2/MDAxNTE5Mjk1OTkwODY3.MAkN39cEx9SXDNZQOvro9j8ELXORTpa635ftTvWT0hQg.uJNoMxSEa5oMrYS2TpmR0BtNEv0UQ6wr6B9l2E306zUg.JPEG.richuehong2/%C5%EB%BF%B5_%B1%D9%BB%FD_%285%29.jpg?type=a238_flexible",
+        "location": "경상북도 울진군 울진읍 읍내리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00009",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00009",
+        "project_name": "서대문구 냉천동 상가주택 (은옥재)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221268359368&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA1MDRfMjgw/MDAxNTI1NDM0MjE1OTA1.cA_iGs29sD4id3W6f79qfpnRmma98pBr6eheZaeuC-og.2AlKfJ3G0wxzlBQcqbdpf5vm64XZLuN3qSwTuAbXQEIg.PNG.richuehong2/%B8%AE%BD%B4_%B3%C3%C3%B5%B5%BF_%C0%BA%BF%C1%C0%E7__%2838%29.png?type=a238_flexible",
+        "location": "서울특별시 서대문구 냉천동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00010",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00010",
+        "project_name": "상도동 세자매집 (땅 32평 협소주택)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221293620183&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA2MDdfMTk1/MDAxNTI4MzUxNjA0NjU0.YJd2NjBxs8VcQVn6PEztcn7H9cS2GDuNv8cunb4Br_Qg.ZKWZIbz0wTs4K4CNiUW9xijk3U8GdSRvU3e7I-b4eqwg.PNG.richuehong2/s054.png?type=a238_flexible",
+        "location": "서울특별시 동작구 상도동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설",
+            "협소주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00011",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00011",
+        "project_name": "안양시 안양동 붉은 벽돌집 (임대형 다세대) ",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221313162889&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA3MDVfMTc2/MDAxNTMwNzc1NjYxNjgy.NDzCLXh85CXedlqvJaHo-iUAX0pm3fnRd3WTm4z2Eb8g.Ma1KbYilDKTJMco6-Mr-WQDsH9VmVHtXl_aNkyaV_Jkg.PNG.richuehong2/%BE%C8%BE%E7%BD%C3_523-6_%B8%AE%BD%B4%B0%C7%C3%E0_55.png?type=a238_flexible",
+        "location": "경기도 안양시 만안구 안양동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "다세대주택",
+            "공동주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00012",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00012",
+        "project_name": "상도동 삼각집 (25평 대지 협소주택) ",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221390957102&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODExMDNfMjc4/MDAxNTQxMjM4OTgyMzQ4.o_6K_jk1_Du0kAbsUtAycLio4CSpcNSYQSRqdgaAt0Ag.LMDk6IF8-A-6wp1gSifSPPE5vLUqmmwgLjY4ncLuJu0g.PNG.richuehong2/052.png?type=a238_flexible",
+        "location": "서울특별시 동작구 상도동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설",
+            "협소주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00013",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00013",
+        "project_name": "방배동 상가주택 (Yellow House) ",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221416327093&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODEyMTBfNzMg/MDAxNTQ0NDMwODk1NjU5.hv1dTTjzxuHiWhxHt1MAGqE5wWyRFHRw9PwMqyBOVDwg.Cszq-p2BFzWS6g2cQWFIflBohfkfXBjoIefV2jfqC98g.PNG.richuehong2/006.png?type=a238_flexible",
+        "location": "서울특별시 서초구 방배동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00014",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00014",
+        "project_name": "거여동  Street  Garden  House",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221456610270&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTAyMDFfMTY0/MDAxNTQ5MDA4Mjg0Mjk4.bKfqRXdfYFQusKEIILmbAnLyCRH6k5aZ5yZTTw33lbUg.00APwJzv6Zxv4S7Hmy6fPblAZyaKb6-ShVjmcXWa1Jkg.PNG.richuehong2/001.png?type=a238_flexible",
+        "location": "서울시 송파구 거여동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00015",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00015",
+        "project_name": "당진시 층층 마당집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221643706669&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTA5MDlfMjMz/MDAxNTY4MDE2NTU4NDY2.vFn8nt8atlqWMXlH1JkRg-3uxrIut5ZnxAidnCEWS5Mg.Xiosk-GFuwWLohNBuOT7lJt9z_cPXVw9nQg0pfYo7Y0g.JPEG.richuehong2/001.jpg?type=a238_flexible",
+        "location": "충청남도 당진시 채운동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00016",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00016",
+        "project_name": "수유동 상가주택 ",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221920935160&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA0MjFfMzkg/MDAxNTg3NDU5MDQwODAz.MZU45MPvORfgDwpOg88L1yaXbeQSEwlBzfYNGgY9E_0g.wqmD7m0M5pyad-B0FWDp0BXU-JL-MITr5mmzzJAMtRsg.JPEG.richuehong2/%B8%AE%BD%B4-%BC%F6%C0%AF%B1%D9%BB%FD_%281%29.jpg?type=a238_flexible",
+        "location": "서울시 강북구 수유동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00017",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00017",
+        "project_name": "양재동  상가주택 (힐스큐브)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222019780813&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA3MDNfMTk1/MDAxNTkzNzQxMTIwMzAz.CIiIPqSuetfVTXKk3NWOG_KsZhBzQjP1R8rK2delBCUg.nWtSCffsKvLtauT2S9tlpxsz21O1UiwHXUE2qx8h7sUg.JPEG.richuehong2/%B8%AE%BD%B4-_%BE%E7%C0%E7%B5%BF_%286%29.jpg?type=a238_flexible",
+        "location": "서울시 서초구 양재동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00018",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00018",
+        "project_name": "하남 미사 망월동 상가주택 (安 休 齋)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222043264205&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA3MjdfMjM1/MDAxNTk1ODM3NTk0OTk3.W2tSB7FeC09iXj3D8ju8Qe5ZbO71_lkBU4tmEpywQwYg.1RL840U4znPF5pMGQSJ-qTvwu3qUxKQ-ZQ1BJ9yLMxsg.JPEG.richuehong2/%B8%AE%BD%B4___%B8%C1%BF%F9%B5%BF_%2846%29.jpg?type=a238_flexible",
+        "location": "경기도 하남시 망월동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00019",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00019",
+        "project_name": "감일동 상가주택 Ⅰ",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222250321554&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTAyMjBfNTgg/MDAxNjEzODEwNDMwMDAy.pZP-8_eF3InYDFZQ435PCQqgkvRxYS7oVzApMt-hMd8g.pKWrfteUTbNK-r0xRtzwf4aVF4_iTb_CbJ2QmFHp31sg.JPEG.richuehong2/002.jpg?type=a238_flexible",
+        "location": "경기도 하남시 감일지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00020",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00020",
+        "project_name": "감일동 상가주택 Ⅱ",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222463275810&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA4MDlfNjIg/MDAxNjI4NTA5NTk5MDAz.9agtfUfxdlTwOsjwgFpezmb30EMzeYwSVt1gOj1FVvQg.izt8Ufj91qYp6pa4FdVpYIOT7aozxtofc6h-keqwUwsg.PNG.richuehong2/035.png?type=a238_flexible",
+        "location": "경기도 하남시 감일지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00021",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00021",
+        "project_name": "삼전동  근린생활  다세대 주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222518753341&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA5MjdfMTc0/MDAxNjMyNzQ0ODU5MTA5.B0Bf7-uveZdWLoGtES6USyrPMPZHkDZq4ZQjLZBlMUcg.nejDEUoB3CALIpV8Qte-MPfje493Q-5JxtC6LKVlQSgg.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4_-_%BB%EF%C0%FC%B5%BF_%B1%D9%BB%FD_%2817%29.jpg?type=a238_flexible",
+        "location": "서울시 송파구 삼전동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "다세대주택",
+            "공동주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00022",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00022",
+        "project_name": "양원지구 상가주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222588313183&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTEyMjdfMjM2/MDAxNjQwNTg0MjM5OTQ0.dM-S49KFH8ESHYlI2E_shD7oomUJiJAdrbVVzyWvJTgg.1gIpVi5BtPPG9fnZOh4R5lSUgqdXuVf-pmWQbURorRog.JPEG.richuehong2/1.jpg?type=a238_flexible",
+        "location": "서울시 양원공공주택지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00023",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00023",
+        "project_name": "대장지구 상가주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222612047748&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMjAxMDNfOTEg/MDAxNjQxMjEwNzg4NDcy.A87GcM7kOu686DRyLFOqJoSSWYlq-BwLBFlByez7F5gg.4pZlxelwzz7ogPyLTvUwwqnh_A8GRD1DZ_xuS3so1Rkg.JPEG.richuehong2/%B4%EB%C0%E5%B5%BF_%B1%D9%BB%FD_%284%29s.jpg?type=a238_flexible",
+        "location": "서울시 대장지구 공공주택지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00024",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00024",
+        "project_name": "답십리  상가주택 (별빛우재)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222633852819&categoryNo=241&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMjAxMjhfMjIg/MDAxNjQzMzU3ODE1NDc4.sxgNdcTNam8t8JLafCAE4eQzyNCZ4DK3LF4Ci7Aowrog.G56PqwUeiDaQIesFRRf6PuL95P8n8GtirUZM2XEKykMg.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4_-_%B4%E4%BD%CA%B8%AE_%B1%D9%BB%FD_%283%29.jpg?type=a238_flexible",
+        "location": "서울시 동대문구 답십리동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00025",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00025",
+        "project_name": "용인 네모정자집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=90187165445&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20140304_281/richuehong2_1393898920819W3frY_JPEG/IMG_4167_%BB%E7%BA%BB.jpg?type=a238_flexible",
+        "location": "경기도 용인시 처인구 이동읍",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00026",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00026",
+        "project_name": "﻿전주 네모마당집 (누마루 ㄱ자집)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220071644030&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20140725_26/richuehong2_1406272737437O4jkG_JPEG/%BA%ED%B7%CE%B1%D73_%C0%FC%B0%E6.jpg?type=a238_flexible",
+        "location": "전라북도 전주시",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00027",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00027",
+        "project_name": "가평 네모마당집 (다락방을 둔 ㄷ자집)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220092755352&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20140815_90/richuehong2_1408069489893o3JGB_JPEG/%BA%ED%B7%CE%B1%D7_39.jpg?type=a238_flexible",
+        "location": "경기도 가평군 상면",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00028",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00028",
+        "project_name": "가평 네모마당집2 (경사지에 앉은 ㅡ자집)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220103850419&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20140826_87/richuehong2_1409017365994MHr5N_JPEG/%BA%ED-%BF%CF%BC%BA_%2819%29.jpg?type=a238_flexible",
+        "location": "경기도 가평군 상면",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00029",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00029",
+        "project_name": "﻿완주 누마루 ㅡ자집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220797519950&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20160826_106/richuehong2_1472205422552NnYXn_JPEG/_MG_2440__%BF%CF%C1%D6.jpg?type=a238_flexible",
+        "location": "전라북도 완주군 구이면 덕천리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00030",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00030",
+        "project_name": "사랑방을 둔 ㄱ자집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220478844902&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20150911_72/richuehong2_1441976040114gSrwM_PNG/%C7%CF%B4%CF%C7%CF%BF%EC%BD%BA_%2813%29.png?type=a238_flexible",
+        "location": "경기도 용인시 기흥구 보정동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00031",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00031",
+        "project_name": "양평 바위마당집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220618280034&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20160204_144/richuehong2_1454563003445ujgIm_JPEG/%B8%ED%B4%DE%B8%AE%C1%D6%C5%C3_%2812%29.jpg?type=a238_flexible",
+        "location": "경기도 양평군",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00032",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00032",
+        "project_name": "고양이 마당을 품은 ㄱ자집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220618301272&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20160204_144/richuehong2_1454563660238u64Wh_JPEG/%BF%EB%C0%CE%C1%D6%C5%C31_%286%29.jpg?type=a238_flexible",
+        "location": "경기 용인시 흥덕구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00033",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00033",
+        "project_name": "네모박공집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220809608125&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20160910_289/richuehong2_14734926739540vzSL_JPEG/%BE%C6%C4%A7%B0%ED%BF%E4%B8%B6%C0%BB_%288%29.jpg?type=a238_flexible",
+        "location": "경기도 가평군 상면 항사리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00034",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00034",
+        "project_name": "창원 갤러리 다믄집 (유휴채)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220952574965&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTA1MjVfMjky/MDAxNTU4NzQ4OTA2NDA4.gJlCxZN6mL4C_A2Z77frzVvr8i4r4qOAvVR09COZSrYg.5E48DdP8HJhmjzd378RwCw5IrVBz3oVHZPdgOXPsiHgg.JPEG.richuehong2/%C3%A2%BF%F8%C1%D6%C5%C3_%2821-1%29.jpg?type=a238_flexible",
+        "location": "경상남도 창원시 의창구 용호동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00035",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00035",
+        "project_name": "양평 북박스 (숲속 작은 도서관)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221105759637&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzA5MjZfMjk2/MDAxNTA2NDE4NTA2MTAy.pidIzzyDew_wx-CRzCca63FGrT3nYKzNghezVDFR_7og.DL_kLFxooZHO3Han2UF7mdlAFB0RFrgk0uL0KEo9EH8g.JPEG.richuehong2/JH_%2821%29.jpg?type=a238_flexible",
+        "location": "경기도 양평군 청운면 갈운리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00036",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00036",
+        "project_name": "문경 고향친구집 (우향재)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221124912451&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzEwMjVfNTUg/MDAxNTA4OTA2MzIwMDMy.5ai56uAE3gBUJ0BmezN5PBPQ6q7BnpW7ulzX-gBKy6Mg.ZtTX59Yh_6BFUM5mGJj9Sf7wOup4n5_Wsg26kwUYVEMg.JPEG.richuehong2/%B9%AE%B0%E6%C1%D6%C5%C32_%284%29.jpg?type=a238_flexible",
+        "location": "경상북도 문경군 마성면 신현리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00037",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00037",
+        "project_name": "삼성동 붉은 벽돌집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221234174237&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODAzMjFfNTQg/MDAxNTIxNjI5MTE2NzM4.Ky9J62axn7lQBP0qECZO8maYhTYBq4BoI6nqtk8VeDwg.D05Mv0YxWpVi7XPJvejX0bAKwsHq_BCEpLk3G9V0sOAg.JPEG.richuehong2/%BB%EF%BC%BA%B5%BF%C1%D6%C5%C3_%282%29.jpg?type=a238_flexible",
+        "location": "서울특별시 강남구 삼성동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00038",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00038",
+        "project_name": "성수동 주택 리모델링 (화이트 박스)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221271040714&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA1MDhfMjI4/MDAxNTI1NzgxMzQ2Mzcz.xXZoAy3edw4tmiUKL0bAWoTWIziQIs6R5xPPq0yR_XQg.RBxEnr0ZOB6xPdNW9NcwVQNT4woQGo_LHh9n6QLAboAg.JPEG.richuehong2/1.jpg?type=a238_flexible",
+        "location": "서울특별시 성동구 성수동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택",
+            "리모델링"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00039",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00039",
+        "project_name": "위례 단독주택 (工자집)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221302002177&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA2MTlfMjY0/MDAxNTI5MzczODg5ODk4.7Zyb5GuGsy56YICYY0RKakO-wzI102k7XjY2efOR1C0g.RdaaZ3k3r6EO0FOHvsPEs_rnQbjVuaJJEqB21Y6IxcEg.JPEG.richuehong2/%C0%A7%B7%CA%C1%D6%C5%C3_%287%29-1.jpg?type=a238_flexible",
+        "location": "경기도 성남시 위례지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00040",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00040",
+        "project_name": "Mult i - Cube (원룸+투룸)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221302036382&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA2MTlfNTUg/MDAxNTI5Mzc2OTI3MDc1.rvLFr8Ie2Jm3a81fZzrw5uq2p4N66elEYPU4yRcbXvMg.reMI_x3UbxEV86lCNoNHWeqa0qudQbAUtK7eHt-3uE0g.JPEG.richuehong2/%BE%E7%C1%F6_%B1%D9%BB%FD_%281%29.jpg?type=a238_flexible",
+        "location": "경기도 용인시 처인구 양지면",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "다가구주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00041",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00041",
+        "project_name": "파주 동패동 삼지붕집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221342430529&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA4MjBfMjI3/MDAxNTM0NzUxMjk0Mzk4.UhOrSomcxSLny_9VpqiHuXpUMBs3kcw_uOTI9hKx2qgg.kznW7OmOyidGUlBGo97JyBW-VxSOGy1jaH9dhpAiXN4g.PNG.richuehong2/s_018.png?type=a238_flexible",
+        "location": "경기도 파주시 동패동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "다가구주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00042",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00042",
+        "project_name": "청주 비담집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221382722923&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODEwMjJfMTAw/MDAxNTQwMjAwODUyMjkw.dxIPGecCIYzB18gdu-AohvGd47laeV-Uqc6hrfXH5tAg.IeUnorB9bop8l_KVdZaNFOao_Nu1lel5wf7xMUjvlAwg.JPEG.richuehong2/m1.jpg?type=a238_flexible",
+        "location": "청주시 흥덕구 강내면 월탄리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00043",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00043",
+        "project_name": "위례 단독주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221409678631&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA3MjZfNDEg/MDAxNjI3Mjg3OTY2MDg5.k86DE1uSsElzRKLOd963qSqlrLI0LUdxxqPLeB1Ryd8g.sVFjbDnE720zD05SidynOAnTaxc29q6OxCbKtQOPzTsg.JPEG.richuehong2/1080px_%BC%BA%B3%B2_%C3%A2%B0%EE%B5%BF_581-7_%284%29.jpg?type=a238_flexible",
+        "location": "경기도 성남시 위례지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00044",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00044",
+        "project_name": "세종시  고운동 GRID GARDEN HOUSE",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221424391100&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODEyMjFfMjQz/MDAxNTQ1Mzg2NTYwMzI2.DKRKA47p46z-vw8LJjXP2Mz54WirCaYYv-zQ6T7V8S4g.pIY5g_enTsDwE2admajdX32rrJS2lw4Y3vYOPglg8qEg.PNG.richuehong2/034.png?type=a238_flexible",
+        "location": "세종특별자치시 고운동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00045",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00045",
+        "project_name": "판교 햇살깊은  마당집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221438992995&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTAxMTBfNDYg/MDAxNTQ3MTE1MDM0NzAz.Agkx5PMOKpUxU3nZmOt4jP4RAuNWPDy33DVWZGwuW0Yg.mc2QOLCllNkkFWIG6FnTunUemS7alSZdqCeuWz-vbX4g.PNG.richuehong2/u_f01.png?type=a238_flexible",
+        "location": "경기도 성남시 분당구 판교동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00046",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00046",
+        "project_name": "화천 오음리 화락재 (化樂齋)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221715459595&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTExMjJfMTIy/MDAxNTc0NDEyMTU2OTUy.jOLGJEw3uFGNRFG2lWQmRRfiH0I5-2V2cZNnnlDb78cg.EmEVo0ESVkO4of6MqlZtsdxgWpabTF1KpZbEFQY_6P8g.PNG.richuehong2/003_2.png?type=a238_flexible",
+        "location": "강원도 화천군 간동면 오음리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00047",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00047",
+        "project_name": "중정을 둔 붉은 벽돌집(소람재_笑濫齋)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221957567035&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA1MTFfMjIw/MDAxNTg5MjAwNTAzNjc3.hDGmCs5woq9vHE21La4zN_6Py1A1e8IDbQbCE8K_BLwg.90rFq9-gf4yyaEtm1ICo6SZMmH13UqDC1afMejsaeFwg.PNG.richuehong2/960px_a10.png?type=a238_flexible",
+        "location": "경기도 남양주시 별내동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00048",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00048",
+        "project_name": "민락동 펫하우스 _ 더 봄",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222087750155&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA5MTJfMjkx/MDAxNTk5OTE5MzAzNjEy.9ZGvvUDqzlTzhDcTmRGoic-ts845GpwvOk5s79ACnCAg.rJKFyFYK2IKHxmaEF7zuglG8QSThSBcop2WWJ_7goR4g.JPEG.richuehong2/%B8%AE%BD%B4_-_%B9%CE%B6%F4%B5%BF%C1%D6%C5%C3_2_%281%29.jpg?type=a238_flexible",
+        "location": "경기도 의정부시 민락동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00049",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00049",
+        "project_name": "Secret Courtyard House (우연재)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222295431941&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA0MDFfMjYz/MDAxNjE3MjgxMTQwNjU0.tlKLZ9LKGcll1EWuxzhf4444rOSSnqoridoB_zAXMWsg.UIHpqXK3HR-4JZFiGnV3jSq5MQbBo84N8HLRmt6BD5Eg.JPEG.richuehong2/%B0%A5%C7%F6%B5%BF%C1%D6%C5%C3_%2855%29%C5%A9%B1%E2%BA%AF%C8%AFs.jpg?type=a238_flexible",
+        "location": "서울특별시 은평구 갈현동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00050",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00050",
+        "project_name": "용인 신봉동 단독주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222394359568&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA2MTFfNjUg/MDAxNjIzNDA4NTc5ODEy.I7shKj4--OfQZpvbImPesGU7XOhBLoEDKqcYdpoYBuog.JdewcW0hcObytH7l3HXuq794JKyLjm7snE9Aq50x8Acg.JPEG.richuehong2/1080px_2_%BF%DC%BA%CE_3.jpg?type=a238_flexible",
+        "location": "용인시 수지구 신봉동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00051",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00051",
+        "project_name": "마당 변주Ⅰ \"필경재  泌慶齋\"",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222409007179&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA2MjRfNjcg/MDAxNjI0NTM2MzkwOTE0.kLQSA_WnQT8aFF8FISKpwtVLbr6kAR1FBPZUAQcK5HMg.LI8Dfn2-J5w9n_uvZ34SPuyrLFOS_GpmKbXsSxpz2Hog.JPEG.richuehong2/%B8%AE%BD%B4_-_%BC%AD%C1%BE%C1%D6%C5%C3_%2866%29.jpg?type=a238_flexible",
+        "location": "경기도 양평군 수능리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "단독주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00052",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00052",
+        "project_name": "마당변주Ⅱ \"필경재 泌慶齋\"",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222410055429&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA2MjVfMjE2/MDAxNjI0NjE1MTM1NTkw.RwYFAIYejs4DLWrxTSCOfH9YEZHZYZy3QqUm0yLQ8kQg.-bW6AY941VGwFpaI_XwOQZVyAYRckuW0FreTVClrmhcg.JPEG.richuehong2/%B8%AE%BD%B4_-_%BC%AD%C1%BE%C1%D6%C5%C3_%2864%29.jpg?type=a238_flexible",
+        "location": "경기도 양평군 수능리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "단독주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00053",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00053",
+        "project_name": "계룡시 위아래 마당집 \"화경재 和景齋\"",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222432645032&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA3MTVfMjU5/MDAxNjI2MzMyNTgzOTQw.7QhzjzUPRzW_doqVzr5r3LQlWkfbh-C4zedFAIu2XkYg.FdAIVIBUQxNPECaMV_M3B26s01WpiUCnAsvMYrIwaYgg.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%C0%A7%BE%C6%B7%A1_%B8%B6%B4%E7%C1%FD_%2815%29.jpg?type=a238_flexible",
+        "location": "충청남도 계룡시 엄사면 엄사리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00054",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00054",
+        "project_name": "위례 창곡동 단독주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222496812980&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA5MDZfMTQ2/MDAxNjMwOTA3NTc3ODUw.buD5zkKiCcT2zygm5_ozGHlA_arByuPjESmg-gRCtvcg.086KAcApUh6fUj5jtKWLCGM7fXywUfE5nl4ImyodxUog.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4_-_%C0%A7%B7%CA%C1%D6%C5%C3_2021-08_%2816%29.jpg?type=a238_flexible",
+        "location": "경기도 성남시 수정구 창곡동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00055",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00055",
+        "project_name": "성북동 북카페 주택",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222543077597&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTEwMjBfNzAg/MDAxNjM0NzI3MDU3ODA5.ewYsB3zLFNOCNhMDaLHgeZ9aCH9vKRCcTTfGhOEmYHcg.sfu-laZ4nEMUvI9Z5Ff-njdhFTOEgtWSs_jcKKRO-AYg.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4-_%BC%BA%BA%CF%B5%BF%C1%D6%C5%C3_%281%29.jpg?type=a238_flexible",
+        "location": "서울특별시 성북구 성북동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00056",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00056",
+        "project_name": "하남 단독주택 (화운풍재 / 花雲風齋)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222601165345&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTEyMjFfMTU3/MDAxNjQwMDc5NzgzODk4.T_L9XR3dsmkfCX1tVga0oJT0oRnnH68elGUbGHpxorMg.iresdwhn40aLjvGa0qIDcfEeMW9dfpgiNbt92xHHx0Yg.JPEG.richuehong2/%C8%AD%BF%EE%C7%B3%C0%E7_2_%2810%29s.jpg?type=a238_flexible",
+        "location": "경기도 하남시",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00057",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00057",
+        "project_name": "김포 장기동 단독주택 (설유담재)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222617797995&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMjAxMTBfMTM5/MDAxNjQxNzkyNTkxNTMx.KFNz7BrZLMoP2xgWWBOgEGlOGo22hyIz9IPL1BGvjr0g.vKvsbZt3Y1vdl50GGfyL6C4wCvNVB23sNvRqfJRKkaog.JPEG.richuehong2/%B8%AE%BD%B4_-_%B1%E8%C6%F7%C1%D6%C5%C3____%281%29s.jpg?type=a238_flexible",
+        "location": "경기도 김포시",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00058",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00058",
+        "project_name": "민락동 단독주택 (마당 풍경집)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222649081124&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMjAyMTZfMjMx/MDAxNjQ0OTgxNzU4OTkx.sZnOkcO0i9XmBgPT-xzTtsGQnWxpZtIHxazo6CMO2uUg.xD1QNerbi1e9hpWsZA-XIEZXxi4f0_WtRhNjQKnmHhkg.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4_-_%C0%C7%C1%A4%BA%CE%C1%D6%C5%C3_%2831%29.jpg?type=a238_flexible",
+        "location": "경기도 의정부시 민락동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00059",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00059",
+        "project_name": "부암동 숲 속 마당집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222688230709&categoryNo=242&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMjAzMzFfMTU5/MDAxNjQ4NzI1MTcxMjc1.t3QP0nTe8CHMmsxJYGcPTvI3dXuKGlTMJ4xn4i-0sOYg.9K83c9qeN8PcLoncJYUXsssuLspPQLXUk8dfaR1PyBgg.PNG.richuehong2/001.png?type=a238_flexible",
+        "location": "서울특별시 종로구 부암동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00060",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00060",
+        "project_name": "김포 한강신도시 단독주택 (듀플렉스하우스)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220565497048&categoryNo=245&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20151211_225/richuehong2_1449816263195Ynbsb_JPEG/WD1N9735.jpg?type=a238_flexible",
+        "location": "경기도 김포시 운양동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00061",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00061",
+        "project_name": "청라 듀플렉스 ㄱㄴ집",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221338093510&categoryNo=245&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA4MTNfNTYg/MDAxNTM0MTQ3MzU4ODk0.CXYDB2b3hvbKIkYd55L4waGnW0N-rnalEUG9w4QLqk4g.dzRkQoqkooXk0ymp5tyeSKEjDFhuDqttrUU3G53hl1Ag.PNG.richuehong2/s_%B8%AE%BD%B4_%B0%E6%BC%AD%B5%BF_%2841%29.png?type=a238_flexible",
+        "location": "인천광역시 서구 경서동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00062",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00062",
+        "project_name": "울산 약사동 ㄲ자집 (듀플렉스 하우스)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221181357843&categoryNo=245&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODAxMTFfOTYg/MDAxNTE1NjU3MzY4NzA5.7rRHwsHtpgSvagZiKwgmvNyALyqRFiXHyPh1MZIH_uEg.wyYTP8M6WcDSk4YSUafAq_yQUN0-Or_thRZHSKY8xCIg.PNG.richuehong2/005%2B.png?type=a238_flexible",
+        "location": "울산광역시 중구 약사동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00063",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00063",
+        "project_name": "파주 베네우스 더 가든",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221449408487&categoryNo=245&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTAxMjNfMjI4/MDAxNTQ4MjQ0NTUxODA4.leBBLIFq2Y96VmtT5d9Gm4N_LnKrwPIuQxTsr_LmnVQg.YA8F2ZlE4zQWhkZrNJ9bhd2-VqahMHJ2WTm7CwtB6Okg.JPEG.richuehong2/%B5%BF%C6%D0%B5%BF_%B4%D9%B0%A1%B1%B8_%281%29.jpg?type=a238_flexible",
+        "location": "경기도 파주시 동패동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00064",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00064",
+        "project_name": "김포 운양동 ㄱㄷ자 집 (듀플렉스)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221593033271&categoryNo=245&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTA3MjNfMTY1/MDAxNTYzODUwOTc0MDQy.W7kWnLFjrq1yw9qQvpN8X2InT06_bV0U2vfXh7olw44g.WHX19fzibY8KOZkWUB4XA1svfwmGpWCf_Cb869c3Gbwg.PNG.richuehong2/s_%B8%AE%BD%B4_%B1%E8%C6%F7_%BF%EE%BE%E7%B5%BF_%2858%29.png?type=a238_flexible",
+        "location": "경기도 김포시 운양동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00065",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00065",
+        "project_name": "더 듀플렉스",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221792298580&categoryNo=245&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDAyMDFfMjU5/MDAxNTgwNTIyOTEzNDY3.SN5O7OZu8rXQFsmX_DKXtBdokKttR066ndouaQ7Ujssg.wDs9vs8-d2izbbBfOn80Fj2c5XiJ0vf4yToqqkckS2Mg.JPEG.richuehong2/%B8%AE%BD%B4__%B1%E8%C6%F7%C1%D6%C5%C3_%2826%29.jpg?type=a238_flexible",
+        "location": "경기도 김포시 운양동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00066",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00066",
+        "project_name": "제 STONE HILL",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221072538988&categoryNo=243&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzA4MTJfOTAg/MDAxNTAyNTIwNTIzOTEw.o0yL3oFZkOsw-6Qn2py2jZCU_hJX4fegyGfN5fkKoPEg.FMozdARoEbzIuSH-7cqRUlpcNM3h-igO993gotZYQm8g.JPEG.richuehong2/%B0%C5%C1%A6%B5%B5_%289%29.jpg?type=a238_flexible",
+        "location": "경상남도 거제시 수월동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "단독주택",
+            "주택",
+            "상가",
+            "근린생활시설",
+            "펜션"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00067",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00067",
+        "project_name": "거제 아침고요마을 펜션",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221034527350&categoryNo=243&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzA2MjFfMjc3/MDAxNDk4MDQwNTkyNTg5.x1OIlrVV-eDYWuv5-xBPKCodKu21pRu3KHqw3z__flIg.pHBReo9Femos1WigRHyI9iDtNm3huXfEyQ2hEKRITxMg.PNG.richuehong2/019.png?type=a238_flexible",
+        "location": "경상남도 거제시 외포리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택",
+            "펜션"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00068",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00068",
+        "project_name": "통영지그재그펜션",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221296462797&categoryNo=243&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA2MTFfMjc4/MDAxNTI4Njk1MTU1NDM1.VRh_0X9peDkDVZ2j5iBHtwtNnUofVtyK4tyUStGip_wg.xS3aH1k22y3nGec7h55Grp25TAhUCXCJfVcE5sh3Yu0g.PNG.richuehong2/s077.png?type=a238_flexible",
+        "location": "경상남동 통영시 산양읍 풍화리",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택",
+            "펜션"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00069",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00069",
+        "project_name": "속초 펜션주택 (STAY MORO)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222415706727&categoryNo=243&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA2MzBfMTA2/MDAxNjI1MDU2Mzc3Mjky.7yBm2dv3TtoK1XXxO9SIaurwIWsClR8sM-Q6MNbLatUg.neQECSnkdOTYAoKIDUrYIBYdeUKH9-I7QqIxpYXNIr4g.PNG.richuehong2/041.png?type=a238_flexible",
+        "location": "강원도 속초시 대포동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "단독주택",
+            "주택",
+            "펜션"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00070",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00070",
+        "project_name": "한강로 모퉁이빌딩",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=90157863356&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20121129_115/richuehong2_1354180891879yVEUC_JPEG/%C0%BA%C7%E0%B3%AA%B9%AB%B0%A1%C1%F6%BF%CD_%BC%BC%B7%CE%C3%A2.jpg?type=a238_flexible",
+        "location": "서울특별시 용산구 한강로동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00071",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00071",
+        "project_name": "청라 커낼큐브",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=90162710196&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20130125_290/richuehong2_13590863690063DAH6_JPEG/%C4%BF%B3%DA%C5%A5%BA%EA_%2820%29_%BB%E7%BA%BB.jpg?type=a238_flexible",
+        "location": "인천광역시 서구 청라지구",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00072",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00072",
+        "project_name": "순천제일대학교 기숙사",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=90187163809&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20140815_110/richuehong2_1408077356959MViMB_JPEG/%BC%F8%C3%B5%C1%A6%C0%CF%B4%EB_%2817%29.jpg?type=a238_flexible",
+        "location": "전라남도 순천시",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "기숙사"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00073",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00073",
+        "project_name": "부천 스크린빌딩 (S타일 사옥)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220901690276&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxNzAxMDNfMzYg/MDAxNDgzNDI4MjkxNTk1.aGQwbK9LTEOZz0TRd7FaDfP-bDJHws8Wbeuh5AXtV7Qg.tbp-xFSpK0VpYowqCISrzkYkUyRfrWkPIfImtH2mOpsg.JPEG.richuehong2/%B8%AE%BD%B4-%BA%CE%C3%B5_%BB%E7%BF%C1_%2811%29.jpg?type=a238_flexible",
+        "location": "경기도 부천시 원미구 상동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00074",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00074",
+        "project_name": "신당동 모퉁이 빌딩 (패션 플로우 사옥)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221194161347&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODAxMjZfMjk3/MDAxNTE2OTUxNjUxNjE4.1SsD_U5WM6CbTUVSRNFX5VE6nVO4HKAWOPU_diKted4g.w_gqPthB_oOmT8h-y1UE9Pq2MjpJKRhtOjWFXsCcFpAg.PNG.richuehong2/003.png?type=a238_flexible",
+        "location": "서울특별시 중구 신당동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00075",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00075",
+        "project_name": "용산 한강로2가 Y빌딩",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221229503928&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODAzMTVfMjI2/MDAxNTIxMDk0NjQ0MTY2.l4IOiWpRE0nFqGCqAU07N_ThuHq8c5m2pT42uPYTQ6Ig.tdu3ecr1u2UjeMEWwwmzTOkfi5Vot8E_9d2xxsjPSFUg.JPEG.richuehong2/WD1N7154.jpg?type=a238_flexible",
+        "location": "서울시 용산구 한강로2가",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00076",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00076",
+        "project_name": "성산동 상가주택 (Urban Membrane)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221286867710&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODA1MjlfMjQz/MDAxNTI3NTc0NjIzNjg5.dcsvSm9ulSQOPRLAvsPk4tnDZ0D5ewmZZAC5tLGe82wg.8w9Bb1Pg39BC8z8cjE57flFfCshd9MnlqrmCLCutp4Yg.JPEG.richuehong2/20_%287%29.jpg?type=a238_flexible",
+        "location": "서울시 마포구 성산동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00077",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00077",
+        "project_name": "성북천변 계단집 (패션사옥 51%)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221375305290&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODEwMTFfMTM4/MDAxNTM5MjI1NjU3MzU3.esaSH8kW4m5kjsWu1KDMEhklnAOZ-2iVR0RxH6OxSBEg.3kazM93eT1V2h0f7w8O0XL_9AxUg7Pv2G4D5RLo2Kdkg.JPEG.richuehong2/%BA%B8%B9%AE%B5%BF%B1%D9%BB%FD_%2813%29.jpg?type=a238_flexible",
+        "location": "서울특별시 성북구 보문동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00078",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00078",
+        "project_name": "KSL 사옥",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221409616899&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxODExMzBfMjgx/MDAxNTQzNTY2MTk2ODI4.vIJ4iFk2YnUoVV3bJHnbpocyZdW_q-ZLOCjlSbjz9WMg.1igWvjgvdv7SEqkgmFl78g0m7vSh43vS-96iPFx8KK0g.JPEG.richuehong2/%B8%AE%BD%B4-KSL_%281%29.jpg?type=a238_flexible",
+        "location": "경기도 부천시 원미구 춘의동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00079",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00079",
+        "project_name": "인천 용현동 Interacting Cube (사옥)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221906452347&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA0MTNfMzMg/MDAxNTg2Nzc3Mjg1MDEx.83VIqJSXizxVDZzrUBSM0FRSqk0cUnZ2P_7c4dC0DGgg.np1CmTjrznwF8OvhyrE4yVyk-cRffy53MpWDY5vY5O4g.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF_%C0%CE%C3%B5_-_%C0%CE%C3%B5_%B1%D9%BB%FD_%2811%29.jpg?type=a238_flexible",
+        "location": "인천광역시 미추흘구 용현동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00080",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00080",
+        "project_name": "강릉역   레드큐브 (Red Cube)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221973061199&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDA1MjFfMTAz/MDAxNTkwMDQxMjM0MTM2.PS_Xe07VMIjPj8c9RnJLY78tdviV9pq_X60z9s7-XDsg.DTlaMyWfmwEFB74S2ngbwJY70Epeo-PmbpHnqM5o0HIg.PNG.richuehong2/007.png?type=a238_flexible",
+        "location": "강원도 강릉시 교동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00081",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00081",
+        "project_name": "성수동  THE GROUND (사옥)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222120193586&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMDEwMTlfMjc5/MDAxNjAzMDk2Mjc2OTc5.4l8C77oj-LR6aggjgTMchF3-WfTCjskgxPrRFoyswwog.xUVDrFVH4VsdeM4-1xa8KmzjDIfmfdYS0r0hLly884Qg.JPEG.richuehong2/%BC%BA%BC%F6%B5%BF_%B1%D9%BB%FD_%2815%29.jpg?type=a238_flexible",
+        "location": "서울특별시 성동구 성수동2가",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00082",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00082",
+        "project_name": "아천동 사옥+다세대 \"서경재 瑞景齋\"",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222476356140&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMTA4MTlfMjQ0/MDAxNjI5MzU2Nzg2ODgy.FQqyiIs4zLwbx1WYEqJYWu6WOtfQnRRnaOtTnF3Eb_Ig.aUpB5gu5Fc245h5v04Lklv3woATwfcVqB0284yhXjnAg.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4_-_%BE%C6%C3%B5%B5%BF_%B1%D9%BB%FD_%2814%29.jpg?type=a238_flexible",
+        "location": "경기도 구리시 아천동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가주택",
+            "공동주택",
+            "다세대주택",
+            "주택",
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00083",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00083",
+        "project_name": "합정동 근린생활 (진서원 사옥)",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=222673637349&categoryNo=244&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAyMjAzMTVfOTkg/MDAxNjQ3MzQ0Njg2NzA1.oAt5bykOgrxhp31r_NRr7T_ZZ-XqLkJI8i6HgpJ3jgQg.DdicL0YH89SLiD9J7XUhWXEDPYKkzPOYpU8yy6UzYZ8g.JPEG.richuehong2/%C5%A9%B1%E2%BA%AF%C8%AF%B8%AE%BD%B4-%C1%F8%BC%AD%BF%F8%BB%E7%BF%C1_%C7%D5%C1%A4%B5%BF_%288%29.jpg?type=a238_flexible",
+        "location": "서울특별시 마포구 합정동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "상가",
+            "근린생활시설"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00084",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00084",
+        "project_name": "법화정사",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=220157566160&categoryNo=253&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/20141021_110/richuehong2_14138873580354LUlc_JPEG/%BF%CF%BC%BA_%2831%29%BA%ED.jpg?type=f238",
+        "location": "서울특별시 동대문구 제기동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "종교시설",
+            "사찰"
+        ]
+    },
+    {
+        "id": "r_00001_pj_00085",
+        "office_id": "r_00001",
+        "design_office": "리슈 건축사사무소",
+        "homepage_link": "https://blog.naver.com/richuehong2",
+        "ic_link": "http://www.richue.com/RAD/PEG/logo_15670534683444.png",
+        "phone_number": "02)790-6404",
+        "email": "richuega@naver.com",
+        "office_address": "서울특별시 용산구 한강로2가 85번지, 2층",
+        "project_id": "pj_00085",
+        "project_name": "고덕교회",
+        "project_link": "https://blog.naver.com/PostView.naver?blogId=richuehong2&logNo=221697872754&categoryNo=253&parentCategoryNo=&from=thumbnailList",
+        "image_link": "https://postfiles.pstatic.net/MjAxOTExMDRfMjYx/MDAxNTcyODYxMDQ0MDkx.PMs2zwpMUEgP0CSiSM73SiqUBD49P4pAoGEtMYtOWy4g.mP-5kVXxC3OxJ9Kb99MXRpsr92_fzOXiCb2rk3mLy0Mg.JPEG.richuehong2/%B0%ED%B4%F6%B1%B3%C8%B8_%2850%29.jpg?type=f238",
+        "location": "서울특별시 강동구 상일동",
+        "office_boss": [
+            "홍만식"
+        ],
+        "tag": [
+            "종교시설",
+            "교회"
+        ]
     }
 ]

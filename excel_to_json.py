@@ -37,6 +37,8 @@ for row_num in range(2, sheet.max_row + 1):
     tmp_dict[key_list[-1]] = tag
     data_dict.append(tmp_dict)
 
+    print(str(len(data_dict)) + "개의 DB가 등록되었습니다.")
+
 wb.close()
 
 with open(json_file, 'w', encoding='utf-8') as fp:
