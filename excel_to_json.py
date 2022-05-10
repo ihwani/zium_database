@@ -2,11 +2,11 @@ import json
 import openpyxl
 
 # Pc path
-# excel_file = 'C:/github/zium_database/zium_database.xlsx'
-# json_file = 'C:/github/zium_database/zium_database.json'
+excel_file = 'C:/github/zium_database/zium_database.xlsx'
+json_file = 'C:/github/zium_database/zium_database.json'
 # Mac path
-excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
-json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.json'
+# excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
+# json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.json'
 
 wb = openpyxl.load_workbook(excel_file, read_only=True, data_only=True)
 
