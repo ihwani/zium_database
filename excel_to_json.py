@@ -2,11 +2,11 @@ import json
 import openpyxl
 
 # Pc path
-# excel_file = 'C:/github/zium_database/zium_database.xlsx'
-# json_file = 'C:/github/zium_database/zium_database.json'
+excel_file = 'C:/github/zium_database/zium_database.xlsx'
+json_file = 'C:/github/zium_database/zium_database.json'
 # Mac path
-excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
-json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.json'
+# excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
+# json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.json'
 
 wb = openpyxl.load_workbook(excel_file, read_only=True, data_only=True)
 
@@ -20,7 +20,7 @@ data_dict = []
 for row_num in range(2, sheet.max_row + 1):
     tmp_dict = {}
     tag = ""
-    # boss = ""
+    boss = ""
     for col_num in range(1, sheet.max_column + 1):
         val = sheet.cell(row=row_num, column=col_num).value
         if col_num == 6:
@@ -36,10 +36,41 @@ for row_num in range(2, sheet.max_row + 1):
     tmp_dict[key_list[5]] = boss
     tmp_dict[key_list[-1]] = tag
     data_dict.append(tmp_dict)
-
-    print(str(len(data_dict)) + "개의 DB가 등록되었습니다.")
+    print(len(data_dict))
+print(str(len(data_dict)) + "개의 DB가 등록되었습니다.")
 
 wb.close()
 
 with open(json_file, 'w', encoding='utf-8') as fp:
     json.dump(data_dict, fp, indent=4, ensure_ascii=False)
+
+# Pc path
+excel_file = 'C:/github/zium_database/zium_database.xlsx'
+json_file = 'C:/github/zium_database/zium_office_address.json'
+# Mac path
+# excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
+# json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_office_address.json'
+
+wb = openpyxl.load_workbook(excel_file, read_only=True, data_only=True)
+
+sheet = wb.worksheets[1]
+
+address_key_list = []
+for address_row_num in range(2, sheet.max_row + 1):
+    address_key_list.append(sheet.cell(row=address_row_num, column=1).value)
+
+address_value_list = []
+for address_row_num in range(2, sheet.max_row + 1):
+    address_value_list.append(sheet.cell(
+        row=address_row_num, column=sheet.max_row).value)
+
+address_data_dict = {}
+for i in range(len(address_key_list)):
+    address_data_dict[address_key_list[i]] = address_value_list[i]
+
+print(str(len(address_data_dict)) + "개의 주소가 등록되었습니다..")
+
+wb.close()
+
+with open(json_file, 'w', encoding='utf-8') as fp:
+    json.dump(address_data_dict, fp, indent=4, ensure_ascii=False)
