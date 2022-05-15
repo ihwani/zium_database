@@ -2,11 +2,12 @@ import json
 import openpyxl
 
 # Pc path
-excel_file = 'C:/github/zium_database/zium_database.xlsx'
-json_file = 'C:/github/zium_database/zium_database.json'
+file_path = 'C:/github/zium_database'
 # Mac path
-# excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
-# json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.json'
+# file_path = '/Users/ihwani/Documents/GitHub/zium_database'
+
+excel_file = file_path + '/zium_database.xlsx'
+json_file = file_path + '/zium_database.json'
 
 wb = openpyxl.load_workbook(excel_file, read_only=True, data_only=True)
 
@@ -44,12 +45,8 @@ wb.close()
 with open(json_file, 'w', encoding='utf-8') as fp:
     json.dump(data_dict, fp, indent=4, ensure_ascii=False)
 
-# Pc path
-excel_file = 'C:/github/zium_database/zium_database.xlsx'
-json_file = 'C:/github/zium_database/zium_office_address.json'
-# Mac path
-# excel_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_database.xlsx'
-# json_file = '/Users/ihwani/Documents/GitHub/zium_database/zium_office_address.json'
+excel_file = file_path + '/zium_database.xlsx'
+json_file = file_path + '/zium_office_address.json'
 
 wb = openpyxl.load_workbook(excel_file, read_only=True, data_only=True)
 
