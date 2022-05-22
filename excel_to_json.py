@@ -45,6 +45,10 @@ wb.close()
 with open(json_file, 'w', encoding='utf-8') as fp:
     json.dump(data_dict, fp, indent=4, ensure_ascii=False)
 
+
+# ---------------------------------------------------------------------------------
+
+
 excel_file = file_path + '/zium_database.xlsx'
 json_file = file_path + '/zium_office_address.json'
 
@@ -59,7 +63,7 @@ for address_row_num in range(2, sheet.max_row + 1):
 address_value_list = []
 for address_row_num in range(2, sheet.max_row + 1):
     address_value_list.append(sheet.cell(
-        row=address_row_num, column=sheet.max_row).value)
+        row=address_row_num, column=sheet.max_column).value)
 
 address_data_dict = {}
 for i in range(len(address_key_list)):
