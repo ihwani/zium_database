@@ -4945,27 +4945,5 @@
             "상가",
             "근린생활시설"
         ]
-    },
-    {
-        "id": "g_00001_pj_00085",
-        "office_id": "g_00001",
-        "design_office": "그리드에이 건축사사무소",
-        "homepage_link": "https://jybahk.wordpress.com/",
-        "ic_link": "https://www.facebook.com/gridarchi/photos/a.598781076891659/599052430197857/?__tn__=%3C",
-        "phone_number": "031)8013-0343",
-        "email": "grid_a@naver.com",
-        "project_id": "pj_00085",
-        "project_name": "성동구 성수동 근생주택",
-        "project_link": "https://jybahk.wordpress.com/2019/06/29/2017-%ec%84%b1%eb%8f%99%ea%b5%ac-%ec%84%b1%ec%88%98%eb%8f%99-%ea%b7%bc%ec%83%9d%ec%a3%bc%ed%83%9d-in-progress/",
-        "image_link": "https://jybahk.files.wordpress.com/2019/06/2.jpg?w=550&h=734",
-        "location": "서울특별시 성동구 성수동",
-        "office_boss": [
-            "박정연"
-        ],
-        "tag": [
-            "상가주택",
-            "주택",
-            "상가"
-        ]
     }
 ]
