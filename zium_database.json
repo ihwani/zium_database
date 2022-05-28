@@ -4896,54 +4896,5 @@
             "상가",
             "근린생활시설"
         ]
-    },
-    {
-        "id": "y_00001_pj_00035",
-        "office_id": "y_00001",
-        "design_office": "요앞 건축사사무소",
-        "homepage_link": "http://yoap.kr/",
-        "ic_link": "http://yoap.kr/wp-content/uploads/2013/05/yoap-ci_ver3_eng_black_small-150x150.jpg",
-        "phone_number": "070)7558-2524",
-        "email": "yoap@yoap.kr",
-        "project_id": "pj_00035",
-        "project_name": "gray_round",
-        "project_link": "http://yoap.kr/?projects=gray_round",
-        "image_link": "http://yoap.kr/wp-content/uploads/2022/04/gray_round_night-view__road_view_01.jpg",
-        "location": "경기도 용인시 처인구 원삼면 두창리",
-        "office_boss": [
-            "정상경",
-            "김도란",
-            "류인근"
-        ],
-        "tag": [
-            "단독주택",
-            "주택"
-        ]
-    },
-    {
-        "id": "y_00001_pj_00036",
-        "office_id": "y_00001",
-        "design_office": "요앞 건축사사무소",
-        "homepage_link": "http://yoap.kr/",
-        "ic_link": "http://yoap.kr/wp-content/uploads/2013/05/yoap-ci_ver3_eng_black_small-150x150.jpg",
-        "phone_number": "070)7558-2524",
-        "email": "yoap@yoap.kr",
-        "project_id": "pj_00036",
-        "project_name": "Vertical Stone",
-        "project_link": "http://yoap.kr/?projects=vertical-stone",
-        "image_link": "http://yoap.kr/wp-content/uploads/2022/04/%EC%95%BC%EA%B2%BD_000_1.jpg",
-        "location": "경기도 성남시 고등동",
-        "office_boss": [
-            "정상경",
-            "김도란",
-            "류인근"
-        ],
-        "tag": [
-            "상가주택",
-            "다가구주택",
-            "주택",
-            "상가",
-            "근린생활시설"
-        ]
     }
 ]
