@@ -18,7 +18,7 @@ for col_num in range(1, sheet.max_column + 1):
     key_list.append(sheet.cell(row=1, column=col_num).value)
 
 data_dict = []
-for row_num in range(2, sheet.max_row + 1):
+for row_num in range(2, sheet.max_row):
     tmp_dict = {}
     tag = ""
     boss = ""
