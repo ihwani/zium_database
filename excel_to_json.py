@@ -2,9 +2,9 @@ import json
 import openpyxl
 
 # Pc path
-# file_path = 'C:/github/zium_database'
+file_path = 'C:/github/zium_database'
 # Mac path
-file_path = '/Volumes/Project Drive/zium_database'
+# file_path = '/Volumes/Project Drive/zium_database'
 
 excel_file = file_path + '/zium_database.xlsx'
 json_file = file_path + '/zium_database.json'
@@ -18,7 +18,7 @@ for col_num in range(1, sheet.max_column + 1):
     key_list.append(sheet.cell(row=1, column=col_num).value)
 
 data_dict = []
-for row_num in range(2, sheet.max_row + 1):
+for row_num in range(2, sheet.max_row):
     tmp_dict = {}
     tag = ""
     boss = ""
