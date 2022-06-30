@@ -4,7 +4,7 @@ import requests
 # Pc path
 file_path = 'C:/github/zium_database'
 # Mac path
-# file_path = '/Users/ihwani/Documents/GitHub/zium_database'
+# file_path = '/Volumes/Project Drive/zium_database'
 
 excel_file = file_path + '/zium_database.xlsx'
 json_file = file_path + '/zium_database_check.json'
