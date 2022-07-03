@@ -2,9 +2,10 @@ import json
 import openpyxl
 
 # Pc path
-file_path = 'C:/github/zium_database'
+# file_path = 'C:/github/zium_database'
 # Mac path
 # file_path = '/Volumes/Project Drive/zium_database'
+file_path = '/Volumes/Project/zium_database'
 
 excel_file = file_path + '/zium_database.xlsx'
 json_file = file_path + '/zium_database.json'
